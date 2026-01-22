@@ -1,6 +1,6 @@
 ### Hi I'm Yongqi 👋
 
-A software engineer worked at JD.COM.
+A software engineer in Beijing.
 
 ## 🔭 Tech stack
 
