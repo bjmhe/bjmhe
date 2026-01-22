@@ -4,11 +4,17 @@ A software engineer in Beijing.
 
 ## 🔭 Tech stack
 
-![Tech stack](https://skillicons.dev/icons?i=ts,vue,react,nodejs,express,python)
+> Frontend
 
-### 🛠 Tools I use
+![Frontend](https://skillicons.dev/icons?i=ts,vue,react,css,tailwind,vite,webpack,rollup,redux,pinia,materialui)
 
-![Tools I use](https://skillicons.dev/icons?i=apple,vscode,git,vite,docker,twitter)
+> Backend
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nextjs,wasm,fastapi,spring,mysql,redis,rabbitmq)
+
+> Devtool
+
+![Devtool](https://skillicons.dev/icons?i=ubuntu,vscode,idea,git,pnpm,bun,docker,githubactions,md)
 
 ### ⏲️ This week I spent time on...
 
