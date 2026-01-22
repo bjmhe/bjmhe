@@ -6,7 +6,7 @@ A software engineer in Beijing.
 
 > used tools
 
-![Used Tools](https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,vite,vitest,tauri,nodejs,fastapi,spring,wasm,mysql,sqlite,docker,nginx,git,githubactions,vscode,idea,pnpm,opencv,pytorch,tensorflow,matlab,ubuntu)
+![Used Tools](https://skillicons.dev/icons?i=react,vue,nextjs,vite,vitest,nodejs,rust,wasm,mysql,docker,nginx,git,githubactions)
 
 ### ⏲️ This week I spent time on...
 
