@@ -4,11 +4,11 @@ A software engineer worked at JD.COM.
 
 ## 🔭 Tech stack
 
-![Tech stack](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,vue,react,nodejs,express,threejs,python,fastapi)
+![Tech stack](https://skillicons.dev/icons?i=ts,vue,react,nodejs,express,python)
 
 ### 🛠 Tools I use
 
-![Tools I use](https://skillicons.dev/icons?i=apple,vscode,bash,git,github,vite,webpack,codepen,docker,blender,twitter)
+![Tools I use](https://skillicons.dev/icons?i=apple,vscode,git,vite,docker,twitter)
 
 ### ⏲️ This week I spent time on...
 
