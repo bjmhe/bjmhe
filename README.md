@@ -4,21 +4,9 @@ A software engineer in Beijing.
 
 ## 🔭 Tech stack
 
-> Frontend
+> used tools
 
-![Frontend](https://skillicons.dev/icons?i=astro,babel,bun,css,cypress,electron,html,js,jest,jquery,less,pinia,react,redux,rollupjs,sass,tailwind,tauri,ts,vite,vitest,vue,webpack)
-
-> Backend
-
-![Backend](https://skillicons.dev/icons?i=django,docker,express,fastapi,flask,java,kotlin,mongodb,mysql,nestjs,nextjs,nodejs,nuxtjs,postgres,rabbitmq,redis,spring,sqlite,wasm)
-
-> Agent
-
-![Agent](https://skillicons.dev/icons?i=anaconda,c,cpp,cmake,md,matlab,opencv,py,pytorch,rust,selenium,tensorflow)
-
-> Devtool
-
-![Devtool](https://skillicons.dev/icons?i=apple,bash,blender,codepen,git,github,githubactions,idea,kubernetes,linux,nginx,npm,pnpm,stackoverflow,ubuntu,vscode,zig)
+![Used Tools](https://skillicons.dev/icons?i=astro,babel,bun,css,cypress,electron,html,js,jest,jquery,less,pinia,react,redux,rollupjs,sass,tailwind,tauri,ts,vite,vitest,vue,webpack,django,docker,express,fastapi,flask,java,kotlin,mongodb,mysql,nestjs,nextjs,nodejs,nuxtjs,postgres,rabbitmq,redis,spring,sqlite,wasm,anaconda,c,cpp,cmake,md,matlab,opencv,py,pytorch,rust,selenium,tensorflow,apple,bash,blender,codepen,git,github,githubactions,idea,kubernetes,linux,nginx,npm,pnpm,stackoverflow,ubuntu,vscode,zig)
 
 ### ⏲️ This week I spent time on...
 
