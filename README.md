@@ -18,7 +18,7 @@ A software engineer in Beijing.
 
 > Devtool
 
-![Devtool](https://skillicons.dev/icons?i=apple,bash,blender,codepen,git,github,githubactions,idea,kubernetes,linux,nginx,npm,pnpm,stackoverflow,ubuntu,vscide,zig)
+![Devtool](https://skillicons.dev/icons?i=apple,bash,blender,codepen,git,github,githubactions,idea,kubernetes,linux,nginx,npm,pnpm,stackoverflow,ubuntu,vscode,zig)
 
 ### ⏲️ This week I spent time on...
 
