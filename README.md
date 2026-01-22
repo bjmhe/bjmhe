@@ -6,7 +6,7 @@ A software engineer in Beijing.
 
 > Frontend
 
-![Frontend](https://skillicons.dev/icons?i=androidstudio,astro,babel,bootstrap,bun,css,cypress,dart,electron,flutter,gulp,html,htmx,js,jest,jquery,less,pinia,react,redux,rollupjs,sass,styledcomponents,tailwind,tauri,ts,vite,vitest,vue,webpack)
+![Frontend](https://skillicons.dev/icons?i=astro,babel,bun,css,cypress,electron,html,js,jest,jquery,less,pinia,react,redux,rollupjs,sass,tailwind,tauri,ts,vite,vitest,vue,webpack)
 
 > Backend
 
