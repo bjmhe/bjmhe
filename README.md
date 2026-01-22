@@ -4,9 +4,7 @@ A software engineer in Beijing.
 
 ## 🔭 Tech stack
 
-> used tools
-
-![Used Tools](https://skillicons.dev/icons?i=react,vue,nextjs,vite,vitest,nodejs,rust,wasm,mysql,docker,nginx,git,githubactions)
+![Tech stack](https://skillicons.dev/icons?i=react,vue,nextjs,vite,vitest,nodejs,rust,wasm,mysql,docker,nginx,git,githubactions)
 
 ### ⏲️ This week I spent time on...
 
