@@ -11,9 +11,13 @@ A software engineer in Beijing.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 12 hrs 17 mins
 
-No activity tracked
+Vue.js       4 hrs 45 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.61 %
+JavaScript   3 hrs 19 mins   ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.09 %
+Markdown     2 hrs 17 mins   ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.61 %
+JSON         1 hr 1 min      ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.27 %
+Text         28 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.87 %
 ```
 
 <!--END_SECTION:waka-->
