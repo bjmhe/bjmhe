@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "@douyinfe/semi-ui": "2.90.13",
+    "@modern-js/plugin-polyfill": "2.70.4",
     "@modern-js/plugin-tailwindcss": "2.70.4",
     "@modern-js/runtime": "2.70.4",
     "react": "18.3.1",
@@ -32,6 +33,7 @@
     "@douyinfe/semi-rspack-plugin": "2.38.3-alpha.2-patch-select-max",
     "@modern-js/app-tools": "2.70.4",
     "@modern-js/tsconfig": "2.70.4",
+    "@rsbuild/plugin-image-compress": "1.3.2",
     "@types/jest": "29.2.6",
     "@types/node": "18.11.19",
     "@types/react": "18.3.27",
