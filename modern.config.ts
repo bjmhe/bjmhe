@@ -1,3 +1,4 @@
+import { SemiRspackPlugin } from '@douyinfe/semi-rspack-plugin';
 import { appTools, defineConfig } from '@modern-js/app-tools';
 import { tailwindcssPlugin } from '@modern-js/plugin-tailwindcss';
 
@@ -12,4 +13,9 @@ export default defineConfig({
     }),
     tailwindcssPlugin(),
   ],
+  tools: {
+    rspack: {
+      plugins: [new SemiRspackPlugin({})],
+    },
+  },
 });

@@ -27,6 +27,9 @@ importers:
       '@biomejs/biome':
         specifier: 1.9.4
         version: 1.9.4
+      '@douyinfe/semi-rspack-plugin':
+        specifier: 2.38.3-alpha.2-patch-select-max
+        version: 2.38.3-alpha.2-patch-select-max(webpack@5.104.1(esbuild@0.25.5))
       '@modern-js/app-tools':
         specifier: 2.70.4
         version: 2.70.4(@rspack/core@1.7.4(@swc/helpers@0.5.18))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(styled-components@5.3.11(@babel/core@7.29.0)(react-dom@18.3.1(react@18.3.1))(react-is@18.3.1)(react@18.3.1))(tsconfig-paths@4.2.0)(tslib@2.8.1)(typescript@5.7.3)
@@ -806,6 +809,11 @@ packages:
 
   '@douyinfe/semi-json-viewer-core@2.90.13':
     resolution: {integrity: sha512-QwRe4MtB7SH/IjdcgqsuY2NgkXcxFTSRwYpslGNNVkEPHpxyXEqR3WIr1tMaU8Hjel8Pldc6E3F22+XZl8Gd1g==}
+
+  '@douyinfe/semi-rspack-plugin@2.38.3-alpha.2-patch-select-max':
+    resolution: {integrity: sha512-3N3kuhzRFZXR7SzKVV9pq6jreT4qv6oK/8UGwWX5UDjLFaq/MqMkmGUduTqQ+4I1XDTj7q/qa3SWDjXYgOt3xw==}
+    peerDependencies:
+      webpack: ^5
 
   '@douyinfe/semi-theme-default@2.90.13':
     resolution: {integrity: sha512-8f4j7NVw7w1IFFTEpTe/RkK3TW4DZWrUngV6CK3XXSCQKSVVyG/cXI5xgK9jkFiuES5S+d+ZlvL2sTA4+x8HWw==}
@@ -6573,6 +6581,14 @@ snapshots:
   '@douyinfe/semi-json-viewer-core@2.90.13':
     dependencies:
       jsonc-parser: 3.3.1
+
+  '@douyinfe/semi-rspack-plugin@2.38.3-alpha.2-patch-select-max(webpack@5.104.1(esbuild@0.25.5))':
+    dependencies:
+      '@babel/core': 7.29.0
+      enhanced-resolve: 5.18.4
+      webpack: 5.104.1(@swc/core@1.15.8(@swc/helpers@0.5.18))(esbuild@0.25.5)
+    transitivePeerDependencies:
+      - supports-color
 
   '@douyinfe/semi-theme-default@2.90.13': {}
 
