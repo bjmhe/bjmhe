@@ -1,13 +1,9 @@
 {
-  "name": "betterhyq",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "@betterhyq/betterhyq",
+  "version": "0.0.1",
+  "author": "betterhyq <betterhyq@qq.com>",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
   "packageManager": "pnpm@10.25.0"
 }
