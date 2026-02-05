@@ -9,26 +9,18 @@ A software engineer in Beijing.
 ### ⏲️ This week I spent time on...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%2042%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-176-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-803.15%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2043%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                132 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-🌆 Daytime                622 commits         ███████░░░░░░░░░░░░░░░░░░   26.82 % 
-🌃 Evening                1238 commits        █████████████░░░░░░░░░░░░   53.39 % 
-🌙 Night                  327 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+🌞 Morning                132 commits         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.66 % 
+🌆 Daytime                637 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.30 % 
+🌃 Evening                1237 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.02 % 
+🌙 Night                  327 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.02 % 
 ```
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/betterhyq/betterhyq/master/assets/bar_graph.png)
-
-
- Last Updated on 05/02/2026 04:06:34 UTC
+ Last Updated on 05/02/2026 08:54:26 UTC
 <!--END_SECTION:waka-->
