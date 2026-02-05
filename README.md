@@ -1,4 +1,4 @@
-### Hi I'm Yongqi 👋
+### Hi, I'm Yongqi 👋
 
 A software engineer in Beijing.
 
