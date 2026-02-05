@@ -1,25 +1,16 @@
-name: Wakatime
+name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
   workflow_dispatch:
-
-permissions:
-  contents: write
-
 jobs:
   update-readme:
-    name: Wakatime
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TOTAL: true
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          COMMIT_MESSAGE: "chore: update wakatime"
-          COMMITTER_NAME: "betterhyq"
-          COMMITTER_EMAIL: "betterhyq@qq.com"
-          AUTHOR_NAME: "betterhyq"
-          AUTHOR_EMAIL: "betterhyq@qq.com"
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
