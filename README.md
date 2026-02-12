@@ -8,8 +8,8 @@ A software engineer in Beijing.
 
 ## 💼 Recent Work
 
-- [@c12-parser](https://github.com/betterhyq/c12-parser) - A parser for C12 configuration files, support JSON, JSON5, JSONC, YAML, TOML, INI
-- [@browser-paths](https://github.com/betterhyq/browser-paths) - A tiny cross‑platform helper crate that locates the executable file paths of Chrome and Edge (stable / beta / dev / canary) on the current machine.
+- [@c12-parser](https://github.com/betterhyq/c12-parser) - a parser for C12 configuration files, support JSON, JSON5, JSONC, YAML, TOML, INI.
+- [@browser-paths](https://github.com/betterhyq/browser-paths) - a tiny cross‑platform helper crate that locates the executable file paths of Chrome and Edge (stable / beta / dev / canary) on the current machine.
 
 ### ⏲️ This week I spent time on...
 
