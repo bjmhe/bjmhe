@@ -8,6 +8,7 @@ A software engineer in Beijing.
 
 ## 💼 Recent Work
 
+- [@promptt](https://github.com/betterhyq/promptt) - a lightweight, interactive CLI prompts library for Rust. It supports text, confirm, number, select, toggle, list, password, and invisible inputs—ideal for building terminal wizards, config generators, or any step-by-step CLI flow.
 - [@c12-parser](https://github.com/betterhyq/c12-parser) - a parser for C12 configuration files, support JSON, JSON5, JSONC, YAML, TOML, INI.
 - [@browser-paths](https://github.com/betterhyq/browser-paths) - a tiny cross‑platform helper crate that locates the executable file paths of Chrome and Edge (stable / beta / dev / canary) on the current machine.
 
