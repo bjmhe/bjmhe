@@ -16,7 +16,7 @@ A software engineer in Beijing.
 - [@find-cargo-toml](https://github.com/un-rust/find-cargo-toml) - Find Cargo.toml by walking up the directory tree.
 - [@promptt](https://github.com/betterhyq/promptt) - a lightweight, interactive CLI prompts library for Rust. It supports text, confirm, number, select, toggle, list, password, and invisible inputs—ideal for building terminal wizards, config generators, or any step-by-step CLI flow.
 - [@c12-parser](https://github.com/un-rust/c12-parser) - Toolbox for parsing and stringifying various formats, including JSON, JSON5, JSONC, INI, TOML, 和 YAML.
-- [@browser-paths](https://github.com/betterhyq/browser-paths) - a tiny cross‑platform helper crate that locates the executable file paths of Chrome and Edge (stable / beta / dev / canary) on the current machine.
+- [@browser-paths](https://github.com/un-rust/browser-paths) - Get the path of the browser, support Chrome and Edge.
 
 ### ⏲️ This week I spent time on...
 
