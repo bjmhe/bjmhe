@@ -10,13 +10,12 @@ Software engineer based in Beijing. Debugging code by day, exploring the city by
 
 ![Crates.io User Total Downloads](https://img.shields.io/crates/udt/335369)
 
-- [@urlogger](https://github.com/un-rust/logger) - Lightweight logging library for Rust
-- [@rwconfig](https://github.com/un-rust/rwconfig) - Read config files, change values with get/set, then write everything back in one go with save(). Like getters and setters with dirty-tracking.
-- [@automd-rs](https://github.com/betterhyq/automd-rs) - a Rust crate that **updates your README.md from your Cargo.toml automatically**.
-- [@find-cargo-toml](https://github.com/un-rust/find-cargo-toml) - Find Cargo.toml by walking up the directory tree.
-- [@promptt](https://github.com/betterhyq/promptt) - a lightweight, interactive CLI prompts library for Rust. It supports text, confirm, number, select, toggle, list, password, and invisible inputs—ideal for building terminal wizards, config generators, or any step-by-step CLI flow.
-- [@c12-parser](https://github.com/un-rust/c12-parser) - Toolbox for parsing and stringifying various formats, including JSON, JSON5, JSONC, INI, TOML, 和 YAML.
-- [@browser-paths](https://github.com/un-rust/browser-paths) - Get the path of the browser, support Chrome and Edge.
+|package|introduction|total downloads|
+|---|---|---|
+|[@urlogger](https://github.com/un-rust/logger)|Lightweight logging library for Rust|![](https://img.shields.io/crates/d/urlogger)|
+|[@find-cargo-toml](https://github.com/un-rust/find-cargo-toml)|Find Cargo.toml by walking up the directory tree.|![](https://img.shields.io/crates/d/find-cargo-toml)|
+|[@c12-parser](https://github.com/un-rust/c12-parser)|Toolbox for parsing and stringifying various formats, including JSON, JSON5, JSONC, INI, TOML, and YAML.|![](https://img.shields.io/crates/d/c12-parser)|
+|[@browser-paths](https://github.com/un-rust/browser-paths)|Get the path of the browser, support Chrome and Edge.|![](https://img.shields.io/crates/d/browser-paths)|
 
 ### ⏲️ This week I spent time on...
 
