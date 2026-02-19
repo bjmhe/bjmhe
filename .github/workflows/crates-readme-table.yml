@@ -28,7 +28,8 @@ jobs:
         run: |
           if ! git diff --staged --quiet; then
             git commit -m "chore: update crates readme table"
-            git push
+            git pull --rebase origin "${{ github.ref_name }}"
+            git push origin "${{ github.ref_name }}"
           else
             echo "No changes to commit"
           fi
