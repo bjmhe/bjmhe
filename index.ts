@@ -91,9 +91,6 @@ const updateReadmeWithTable = (table: string) => {
 const main = async () => {
   const crateList = await getAllCrates(335369);
 
-  // Save raw data
-  fs.writeFileSync("crates.json", JSON.stringify(crateList, null, 2));
-
   // Generate markdown table and update README
   const table = buildCratesTable(crateList);
   updateReadmeWithTable(table);
