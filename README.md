@@ -13,6 +13,18 @@ Software engineer based in Beijing. Debugging code by day, exploring the city by
 ![Crates.io User Total Downloads](https://img.shields.io/crates/udt/335369)
 
 <!--START_SECTION:crates-->
+
+|package|introduction|total downloads|commit activity|
+|---|---|---|---|
+|[@automd-rs](https://github.com/betterhyq/automd-rs)|It's a crate to update your README.md with your Cargo.toml, automatically. Supports badges, contributors, and with-automdrs blocks.|![](https://img.shields.io/crates/d/automd-rs)|![GitHub commit activity](https://img.shields.io/github/commit-activity/m/betterhyq/automd-rs)|
+|[@browser-paths](https://github.com/un-rust/browser-paths)|Get the path of the browser, support Chrome and Edge.|![](https://img.shields.io/crates/d/browser-paths)|![GitHub commit activity](https://img.shields.io/github/commit-activity/m/un-rust/browser-paths)|
+|[@c12-parser](https://github.com/un-rust/c12-parser)|Toolbox for parsing and stringifying various formats, including JSON, JSON5, JSONC, INI, TOML, and YAML.|![](https://img.shields.io/crates/d/c12-parser)|![GitHub commit activity](https://img.shields.io/github/commit-activity/m/un-rust/c12-parser)|
+|[@crates-readme-table](https://github.com/un-rust/crates-readme-table)|Update your README.md with your crates.io crates|![](https://img.shields.io/crates/d/crates-readme-table)|![GitHub commit activity](https://img.shields.io/github/commit-activity/m/un-rust/crates-readme-table)|
+|[@find-cargo-toml](https://github.com/un-rust/find-cargo-toml)|Find Cargo.toml by walking up the directory tree.|![](https://img.shields.io/crates/d/find-cargo-toml)|![GitHub commit activity](https://img.shields.io/github/commit-activity/m/un-rust/find-cargo-toml)|
+|[@promptt](https://github.com/betterhyq/promptt)|A interactive CLI prompts library, lightweight and easy to use.|![](https://img.shields.io/crates/d/promptt)|![GitHub commit activity](https://img.shields.io/github/commit-activity/m/betterhyq/promptt)|
+|[@rwconfig](https://github.com/un-rust/rwconfig)|Read/write config files with get/set and dirty-tracking; save() writes all changes at once|![](https://img.shields.io/crates/d/rwconfig)|![GitHub commit activity](https://img.shields.io/github/commit-activity/m/un-rust/rwconfig)|
+|[@urlogger](https://un-rust.github.io/logger)|Lightweight logging library for Rust|![](https://img.shields.io/crates/d/urlogger)||
+
 <!--END_SECTION:crates-->
 
 ### ⏲️ This week I spent time on...
