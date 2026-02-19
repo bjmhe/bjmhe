@@ -1,6 +1,6 @@
 # Hi, I'm Yongqi 👋
 
-Software engineer based in Beijing. Debugging code by day, exploring the city by night.
+Software engineer based in Beijing. Debugging code by day, exploring the city by night 🌃.
 
 ## 🔭 Tech stack
 
