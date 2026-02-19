@@ -8,6 +8,8 @@ Software engineer based in Beijing. Debugging code by day, exploring the city by
 
 ## 💼 Recent Work
 
+![Rustacean](https://img.shields.io/badge/rustacean-%23f54900?logo=rust)
+![Static Badge](https://img.shields.io/badge/crates.io-author-%23e8af3c)
 ![Crates.io User Total Downloads](https://img.shields.io/crates/udt/335369)
 
 |package|introduction|total downloads|
