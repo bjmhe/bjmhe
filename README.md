@@ -4,7 +4,7 @@ Software engineer based in Beijing. Debugging code by day, exploring the city by
 
 ## 🔭 Tech stack
 
-![Tech stack](https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,rust,docker,nginx,git,githubactions)
+![Tech stack](https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,sass,pinia,webpack,vite,nodejs,rust,go,py,docker,nginx,git,githubactions)
 
 ## 💼 Recent Work
 
