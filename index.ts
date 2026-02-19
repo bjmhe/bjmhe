@@ -15,14 +15,29 @@ const getCrates = async ({
     }>(url);
 }
 
+const getAllCrates = async () => {
+    const crateList = [];
+    let page = 1;
+    while (true) {
+        const { data } = await getCrates({
+            page,
+            per_page: 10,
+            sort: "alpha",
+            user_id: 335369,
+        });
+        const { crates, meta } = data;
+        crateList.push(...crates);
+        if (meta.next_page) {
+            page = meta.next_page;
+        } else {
+            break;
+        }
+    }
+    return crateList;
+}
+
 const main = async () => {
-    const { data } = await getCrates({
-        page: 1,
-        per_page: 10,
-        sort: "alpha",
-        user_id: 335369,
-      });
-    console.log(data);
+    
 }
 
 main();
