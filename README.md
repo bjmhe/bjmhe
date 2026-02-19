@@ -12,6 +12,9 @@ Software engineer based in Beijing. Debugging code by day, exploring the city by
 ![Static Badge](https://img.shields.io/badge/crates.io-author-%23e8af3c)
 ![Crates.io User Total Downloads](https://img.shields.io/crates/udt/335369)
 
+<!--START_SECTION:crates-->
+<!--END_SECTION:crates-->
+
 |package|introduction|total downloads|commit activity|
 |---|---|---|---|
 |[@urlogger](https://github.com/un-rust/logger)|Lightweight logging library for Rust|![](https://img.shields.io/crates/d/urlogger)|![GitHub commit activity](https://img.shields.io/github/commit-activity/m/un-rust/logger)|

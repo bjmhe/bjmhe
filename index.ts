@@ -1,4 +1,5 @@
 import axios from "axios";
+import fs from "node:fs";
 import type { Crate, Meta, GetCratesParams } from "./type";
 
 const getCrates = async ({
@@ -37,7 +38,9 @@ const getAllCrates = async () => {
 }
 
 const main = async () => {
-    
+    const crateList = await getAllCrates();
+    console.log(crateList);
+    fs.writeFileSync("crates.json", JSON.stringify(crateList, null, 2));
 }
 
 main();
