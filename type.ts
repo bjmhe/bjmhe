@@ -36,3 +36,10 @@ export interface Meta {
     next_page: null,
     prev_page: null
 }
+
+export interface GetCratesParams {
+    page: number;
+    per_page: number;
+    sort: "alpha";
+    user_id: number;
+};
