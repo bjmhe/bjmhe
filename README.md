@@ -1,10 +1,10 @@
-### Hi, I'm Yongqi 👋
+# Hi, I'm Yongqi 👋
 
-A software engineer in Beijing.
+Software engineer 💻 based in Beijing. Debugging code by day, exploring the city by night.
 
 ## 🔭 Tech stack
 
-![Tech stack](https://skillicons.dev/icons?i=react,vue,nextjs,vite,vitest,nodejs,rust,wasm,mysql,docker,nginx,git,githubactions)
+![Tech stack](https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,rust,docker,nginx,git,githubactions)
 
 ## 💼 Recent Work
 
