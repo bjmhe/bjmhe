@@ -26,13 +26,6 @@ Software engineer based in Beijing. Debugging code by day, exploring the city by
 
 <!--END_SECTION:crates-->
 
-|package|introduction|total downloads|commit activity|
-|---|---|---|---|
-|[@urlogger](https://github.com/un-rust/logger)|Lightweight logging library for Rust|![](https://img.shields.io/crates/d/urlogger)|![GitHub commit activity](https://img.shields.io/github/commit-activity/m/un-rust/logger)|
-|[@find-cargo-toml](https://github.com/un-rust/find-cargo-toml)|Find Cargo.toml by walking up the directory tree.|![](https://img.shields.io/crates/d/find-cargo-toml)|![GitHub commit activity](https://img.shields.io/github/commit-activity/m/un-rust/find-cargo-toml)|
-|[@c12-parser](https://github.com/un-rust/c12-parser)|Toolbox for parsing and stringifying various formats, including JSON, JSON5, JSONC, INI, TOML, and YAML.|![](https://img.shields.io/crates/d/c12-parser)|![GitHub commit activity](https://img.shields.io/github/commit-activity/m/un-rust/c12-parser)|
-|[@browser-paths](https://github.com/un-rust/browser-paths)|Get the path of the browser, support Chrome and Edge.|![](https://img.shields.io/crates/d/browser-paths)|![GitHub commit activity](https://img.shields.io/github/commit-activity/m/un-rust/browser-paths)|
-
 ### ⏲️ This week I spent time on...
 
 <!--START_SECTION:waka-->
