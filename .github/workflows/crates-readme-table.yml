@@ -2,7 +2,8 @@ name: Crates Readme Table
 
 on:
   schedule:
-    - cron: '30 0/4 * * *'
+    # 02:30, 06:30, 10:30, 14:30, 18:30, 22:30 UTC (every 4h, 2h offset from wakatime)
+    - cron: '30 2/4 * * *'
   workflow_dispatch:
 jobs:
   update-crates-readme-table:
