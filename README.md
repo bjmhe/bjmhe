@@ -19,6 +19,7 @@ Software engineer based in Beijing. Debugging code by day, exploring the city by
 |[@automd-rs](https://github.com/betterhyq/automd-rs)|It's a crate to update your README.md with your Cargo.toml, automatically. Supports badges, contributors, and with-automdrs blocks.|![](https://img.shields.io/crates/d/automd-rs)|
 |[@browser-paths](https://github.com/un-rust/browser-paths)|Get the path of the browser, support Chrome and Edge.|![](https://img.shields.io/crates/d/browser-paths)|
 |[@c12-parser](https://github.com/un-rust/c12-parser)|Toolbox for parsing and stringifying various formats, including JSON, JSON5, JSONC, INI, TOML, and YAML.|![](https://img.shields.io/crates/d/c12-parser)|
+|[@camel](https://github.com/un-rust/camel)|Supports bidirectional conversion of variable strings between common naming formats.|![](https://img.shields.io/crates/d/camel)|
 |[@crates-readme-table](https://github.com/un-rust/crates-readme-table)|Update your README.md with your crates.io crates|![](https://img.shields.io/crates/d/crates-readme-table)|
 |[@find-cargo-toml](https://github.com/un-rust/find-cargo-toml)|Find Cargo.toml by walking up the directory tree.|![](https://img.shields.io/crates/d/find-cargo-toml)|
 |[@promptt](https://github.com/betterhyq/promptt)|A interactive CLI prompts library, lightweight and easy to use.|![](https://img.shields.io/crates/d/promptt)|
