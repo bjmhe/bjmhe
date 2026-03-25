@@ -8,6 +8,7 @@
 
 ### 👋 Hi there, I'm YONGQI 
 
+[![Developer](https://img.shields.io/badge/developer-%23027d9c?logo=TypeScript)](https://go.dev)
 [![Gopher](https://img.shields.io/badge/gopher-%23027d9c?logo=go)](https://go.dev)
 [![Rustacean](https://img.shields.io/badge/rustacean-%23f54900?logo=rust)](https://www.rust-lang.org)
 
