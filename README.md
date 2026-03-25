@@ -10,7 +10,7 @@
 
 [![Developer](https://img.shields.io/badge/developer-%23bae0ff?logo=TypeScript)](https://www.typescriptlang.org/)
 [![Rustacean](https://img.shields.io/badge/rustacean-%23f54900?logo=rust)](https://www.rust-lang.org)
-[![GitHub followers](https://img.shields.io/github/followers/betterhyq)](https://github.com/betterhyq)
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32315%26minutes%3D10080)](https://codetime.dev)
 
 Software engineer based in Beijing.
 
