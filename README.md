@@ -8,7 +8,8 @@
 
 ### 👋 Hi there, I'm YONGQI 
 
-[![Rustacean](https://img.shields.io/badge/rustacean-%23f54900?logo=rust)](https://www.rust-lang.org)
+[![Gopher](https://img.shields.io/badge/gopher-%23027d9c?logo=rust)](https://go.dev)
+[![Rustacean](https://img.shields.io/badge/rustacean-%23f54900?logo=go)](https://www.rust-lang.org)
 [![GitHub followers](https://img.shields.io/github/followers/betterhyq)](https://github.com/betterhyq)
 
 Software engineer based in Beijing.
