@@ -8,6 +8,11 @@
 
 ### 👋 Hi there, I'm YONGQI 
 
+[![Rustacean](https://img.shields.io/badge/rustacean-%23f54900?logo=rust)](https://www.rust-lang.org)
+[![crates.io](https://img.shields.io/badge/crates.io-author-%23e8af3c)](https://crates.io/users/335369)
+[![Crates.io User Total Downloads](https://img.shields.io/crates/udt/335369)](https://crates.io/users/335369)
+[![GitHub followers](https://img.shields.io/github/followers/betterhyq)](https://github.com/betterhyq)
+
 Software engineer based in Beijing.
 
 Building web applications and open-source tools, with a focus on Rust and modern frontend.
@@ -15,13 +20,6 @@ Building web applications and open-source tools, with a focus on Rust and modern
 #### 🔭 Tech stack
 
 ![Tech stack](https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,sass,pinia,vite,nodejs,rust,py,docker,nginx,git,githubactions)
-
-#### 📊 Stats & highlights
-
-[![Rustacean](https://img.shields.io/badge/rustacean-%23f54900?logo=rust)](https://www.rust-lang.org)
-[![crates.io](https://img.shields.io/badge/crates.io-author-%23e8af3c)](https://crates.io/users/335369)
-[![Crates.io User Total Downloads](https://img.shields.io/crates/udt/335369)](https://crates.io/users/335369)
-[![GitHub followers](https://img.shields.io/github/followers/betterhyq)](https://github.com/betterhyq)
 
 #### 📅 Coding rhythm
 
