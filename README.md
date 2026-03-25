@@ -9,7 +9,6 @@
 ### 👋 Hi there, I'm YONGQI 
 
 [![Developer](https://img.shields.io/badge/developer-%23bae0ff?logo=TypeScript)](https://go.dev)
-[![Gopher](https://img.shields.io/badge/gopher-%23ffffff?logo=go)](https://go.dev)
 [![Rustacean](https://img.shields.io/badge/rustacean-%23f54900?logo=rust)](https://www.rust-lang.org)
 
 Software engineer based in Beijing.
