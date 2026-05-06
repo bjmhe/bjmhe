@@ -1,12 +1,12 @@
 <a href="https://github.com/pixsway">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.aika.dev/api?username=pixsway&theme=react-dark&show_icons=true&include_all_commits=true&count_private=true">
-    <img alt="Shows YONGQI's GitHub Stats." align="right" width="480px" src="https://github-stats.aika.dev/api?username=pixsway&theme=react-dark&show_icons=true&include_all_commits=true&count_private=true">
+    <img alt="Shows YONG's GitHub Stats." align="right" width="480px" src="https://github-stats.aika.dev/api?username=pixsway&theme=react-dark&show_icons=true&include_all_commits=true&count_private=true">
   </picture>
 </a>
 
 
-### 👋 Hi there, I'm YONGQI 
+### 👋 Hi there, I'm YONG 
 
 [![Developer](https://img.shields.io/badge/developer-%23bae0ff?logo=TypeScript)](https://www.typescriptlang.org/)
 [![Rustacean](https://img.shields.io/badge/rustacean-%23f54900?logo=rust)](https://www.rust-lang.org)
