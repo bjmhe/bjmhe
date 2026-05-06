@@ -1,7 +1,7 @@
-<a href="https://github.com/betterhyq">
+<a href="https://github.com/pixsway">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.aika.dev/api?username=betterhyq&theme=react-dark&show_icons=true&include_all_commits=true&count_private=true">
-    <img alt="Shows YONGQI's GitHub Stats." align="right" width="480px" src="https://github-stats.aika.dev/api?username=betterhyq&theme=react-dark&show_icons=true&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.aika.dev/api?username=pixsway&theme=react-dark&show_icons=true&include_all_commits=true&count_private=true">
+    <img alt="Shows YONGQI's GitHub Stats." align="right" width="480px" src="https://github-stats.aika.dev/api?username=pixsway&theme=react-dark&show_icons=true&include_all_commits=true&count_private=true">
   </picture>
 </a>
 
