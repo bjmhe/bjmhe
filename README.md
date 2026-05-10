@@ -1,12 +1,12 @@
-<a href="https://github.com/betterhyq">
+<a href="https://github.com/bjmhe">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.aika.dev/api?username=betterhyq&theme=react-dark&show_icons=true&include_all_commits=true&count_private=true">
-    <img alt="Shows Ryan's GitHub Stats." align="right" width="480px" src="https://github-stats.aika.dev/api?username=betterhyq&theme=react-dark&show_icons=true&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.aika.dev/api?username=bjmhe&theme=react-dark&show_icons=true&include_all_commits=true&count_private=true">
+    <img alt="Shows Benjamin's GitHub Stats." align="right" width="480px" src="https://github-stats.aika.dev/api?username=bjmhe&theme=react-dark&show_icons=true&include_all_commits=true&count_private=true">
   </picture>
 </a>
 
 
-### 👋 Hi there, I'm Ryan
+### 👋 Hi there, I'm Benjamin He
 
 [![Developer](https://img.shields.io/badge/developer-%23bae0ff?logo=TypeScript)](https://www.typescriptlang.org/)
 [![Rustacean](https://img.shields.io/badge/rustacean-%23f54900?logo=rust)](https://www.rust-lang.org)
