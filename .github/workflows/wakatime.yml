@@ -14,7 +14,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_USERNAME: bjmhe
-          COMMIT_EMAIL: betterhyq@qq.com
+          COMMIT_EMAIL: hi@bjmhe.me
           # 是否展示图表的最后更新日期
           SHOW_UPDATED_DATE: true
           # 是否显示截止今日的代码贡献行数
