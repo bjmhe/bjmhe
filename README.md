@@ -17,6 +17,8 @@ Software engineer based in Beijing.
 
 Building web applications and open-source tools, with a focus on Rust and modern frontend.
 
+**[View Resume](https://bjmhe.github.io/resume/)** · **[Download PDF](https://bjmhe.github.io/resume/resume.pdf)**
+
 #### 🔭 Tech stack
 
 ![Tech stack](https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,sass,pinia,vite,nodejs,rust,py,docker,nginx,git,githubactions)
